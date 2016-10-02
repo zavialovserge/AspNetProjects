@@ -1,0 +1,1 @@
+C:\Users\zavia\Documents\Visual Studio 2015\Projects\Git_ROOT\AspNetProj\TestDc\TestDS.Test\obj\Debug\TestDS.Test.csprojResolveAssemblyReference.cache
